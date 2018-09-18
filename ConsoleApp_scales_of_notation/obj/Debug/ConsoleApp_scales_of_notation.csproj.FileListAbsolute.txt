@@ -1,0 +1,7 @@
+C:\Users\Fiore\source\repos\ConsoleApp_scales_of_notation\ConsoleApp_scales_of_notation\bin\Debug\ConsoleApp_scales_of_notation.exe.config
+C:\Users\Fiore\source\repos\ConsoleApp_scales_of_notation\ConsoleApp_scales_of_notation\bin\Debug\ConsoleApp_scales_of_notation.exe
+C:\Users\Fiore\source\repos\ConsoleApp_scales_of_notation\ConsoleApp_scales_of_notation\bin\Debug\ConsoleApp_scales_of_notation.pdb
+C:\Users\Fiore\source\repos\ConsoleApp_scales_of_notation\ConsoleApp_scales_of_notation\obj\Debug\ConsoleApp_scales_of_notation.csprojAssemblyReference.cache
+C:\Users\Fiore\source\repos\ConsoleApp_scales_of_notation\ConsoleApp_scales_of_notation\obj\Debug\ConsoleApp_scales_of_notation.csproj.CoreCompileInputs.cache
+C:\Users\Fiore\source\repos\ConsoleApp_scales_of_notation\ConsoleApp_scales_of_notation\obj\Debug\ConsoleApp_scales_of_notation.exe
+C:\Users\Fiore\source\repos\ConsoleApp_scales_of_notation\ConsoleApp_scales_of_notation\obj\Debug\ConsoleApp_scales_of_notation.pdb
